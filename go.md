@@ -459,13 +459,3 @@ n == n2
 ```
 ***
 ***
-<font color = "#4CBB17"><h3>00. title</h3></font>
-```go
-go code
-```
-<font color = "#E60026">out put:</font>
-``` txt
-out put
-```
-***
-***
