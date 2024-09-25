@@ -1,12 +1,5 @@
 # golang
-
-
-
-
 <font color = "#4CBB17"><h3>1. hello world</h3></font>
-
-
-
 ```go
 package main // head of file 
 
@@ -16,22 +9,13 @@ func main() {
     fmt.Println("hello world")
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 hello world
 ```
 ***
 ***
-
-
 <font color = "#4CBB17"><h3>2. Values</h3></font>
-
-
-
 ```go
 package main
 
@@ -49,11 +33,7 @@ func main() {
     fmt.Println(!true)
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 golang
 1+1 = 2
@@ -64,14 +44,7 @@ false
 ```
 ***
 ***
-
-
-
-
 <font color = "#4CBB17"><h3>3. Variables</h3></font>
-
-
-
 ```go
 package main
 
@@ -95,11 +68,7 @@ func main() {
     fmt.Println(f)
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 initial
 1 2
@@ -109,15 +78,7 @@ apple
 ```
 ***
 ***
-
-
-
-
-
 <font color = "#4CBB17"><h3>4. Constants</h3></font>
-
-
-
 ```go
 package main
 
@@ -141,11 +102,7 @@ func main() {
     fmt.Println(math.Sin(n))
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 constant
 6e+11
@@ -154,15 +111,7 @@ constant
 ```
 ***
 ***
-
-
-
-
-
 <font color = "#4CBB17"><h3>5. For</h3></font>
-
-
-
 ```go
 package main
 
@@ -197,11 +146,7 @@ func main() {
     }
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 1
 2
@@ -219,15 +164,7 @@ loop
 ```
 ***
 ***
-
-
-
-
-
 <font color = "#4CBB17"><h3>6. If/Else</h3></font>
-
-
-
 ```go
 package main
 
@@ -258,11 +195,7 @@ func main() {
     }
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 7 is odd
 8 is divisible by 4
@@ -271,15 +204,7 @@ either 8 or 7 are even
 ```
 ***
 ***
-
-
-
-
-
 <font color = "#4CBB17"><h3>7. Switch</h3></font>
-
-
-
 ```go
 package main
 
@@ -331,11 +256,7 @@ func main() {
     whatAmI("hey")
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 Write 2 as two
 It's a weekday
@@ -346,15 +267,7 @@ Don't know type string
 ```
 ***
 ***
-
-
-
-
-
 <font color = "#4CBB17"><h3>8. Arrays</h3></font>
-
-
-
 ```go
 package main
 
@@ -395,11 +308,7 @@ func main() {
     fmt.Println("2d: ", twoD)
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 emp: [0 0 0 0 0]
 set: [0 0 0 0 100]
@@ -413,15 +322,7 @@ idx: [100 0 0 400 500]
 ```
 ***
 ***
-
-
-
-
-
 <font color = "#4CBB17"><h3>9. Slices</h3></font>
-
-
-
 ```go
 package main
 
@@ -482,11 +383,7 @@ func main() {
     fmt.Println("2d: ", twoD)
 }
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 uninit: [] true true
 emp: [  ] len: 3 cap: 3
@@ -504,13 +401,7 @@ t == t2
 ```
 ***
 ***
-
-
-
-
 <font color = "#4CBB17"><h3>10. maps:</h3></font>
-
-
 ```go
 package main
 
@@ -554,11 +445,7 @@ func main() {
 	}
 }
 ```
-
 <font color = "#E60026">out put:</font>
-
-
-
 ``` txt
 map: map[k1:7 k2:13]
 v1: 7
@@ -572,27 +459,13 @@ n == n2
 ```
 ***
 ***
-
-
-
-
 <font color = "#4CBB17"><h3>00. title</h3></font>
-
-
-
 ```go
 go code
 ```
-
-
 <font color = "#E60026">out put:</font>
-
-
 ``` txt
 out put
 ```
 ***
 ***
-
-
-
