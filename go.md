@@ -9,7 +9,7 @@ func main() {
     fmt.Println("hello world")
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 hello world
 ```
@@ -33,7 +33,7 @@ func main() {
     fmt.Println(!true)
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 golang
 1+1 = 2
@@ -68,7 +68,7 @@ func main() {
     fmt.Println(f)
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 initial
 1 2
@@ -102,7 +102,7 @@ func main() {
     fmt.Println(math.Sin(n))
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 constant
 6e+11
@@ -146,7 +146,7 @@ func main() {
     }
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 1
 2
@@ -195,7 +195,7 @@ func main() {
     }
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 7 is odd
 8 is divisible by 4
@@ -256,7 +256,7 @@ func main() {
     whatAmI("hey")
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 Write 2 as two
 It's a weekday
@@ -308,7 +308,7 @@ func main() {
     fmt.Println("2d: ", twoD)
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 emp: [0 0 0 0 0]
 set: [0 0 0 0 100]
@@ -383,7 +383,7 @@ func main() {
     fmt.Println("2d: ", twoD)
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 uninit: [] true true
 emp: [  ] len: 3 cap: 3
@@ -445,7 +445,7 @@ func main() {
 	}
 }
 ```
-<font color = "#E60026">out put:</font>
+<font color = "#E60026">output:</font>
 ``` txt
 map: map[k1:7 k2:13]
 v1: 7
